@@ -1,0 +1,172 @@
+JK-Info para Alunos -----------------------------------------------------------------------------
+
+Página Home: 
+
+Visualizar publicações
+Barra de pesquisa
+Reagir à publicações
+Comentar à publicações
+Editar comentários
+Excluir comentários
+Responder à comentários
+
+Reclamações e Sugestões:
+
+Escrever Reclamação: Campo "Assunto" 
+		  Campo "Descrição" 
+		  Enviar mensagem
+
+Atividades:
+
+Visualizar mensagem de atividade
+Excluir atividade
+
+Perfil:
+
+Visualizar Perfil
+Editar perfil -> Troca a foto
+	         Troca de link de rede social
+	         Adicionar link de rede social
+
+	         Tabela de Turma ->   Turma 
+			        Semestre
+	      	    	        Ano
+		   	        Módulo
+		   	        Situação
+
+Turma:
+
+Nome do aluno
+RM
+Noticias da Turma
+Lista de e-mails de Alunos
+Lista de e-mails de Professores
+
+Cardápio:
+Lista das refeições separadas por dia de semana
+
+Sobre nós:
+Nome, e-mails, GitHub dos integrantes
+
+Configurações:
+Encerrar sessão
+Trocar idioma
+Trocar entre modo "claro" e "escuro"
+Tamanho da fonte
+
+JK-Info para corpo docente ---------------------------------------------------------------------
+
+
+Página Home: 
+
+Visualizar publicações
+Excluir publicações
+Barra de pesquisa
+Reagir à publicações
+Comentar à publicações
+Editar comentários
+Excluir comentários de alunos
+Visualizar comentários dos alunos
+Responder à comentários
+
+Reclamações e Sugestões:
+
+Lista de mensagens enviadas
+Visualizar mensagem
+Excluir mensagem
+Responder mensagem
+
+Atividades:
+
+Vizualizar mensagem de atividade
+Excluir atividade
+
+Perfil:
+
+Editar perfil -> Troca a foto
+	         Troca de link de rede social
+	         Adicionar link de rede social
+
+Emails:
+
+Lista de emails dos membros do corpo docente:
+				             Foto de perfil
+				             Nome do membro
+				             Email
+
+Botão "Turma" para filtrar na "lista de alunos"
+Lista de emails dos alunos:
+		            Foto de perfil
+		            Nome do membro
+		            Email
+
+Cardápio:
+Lista das refeições separadas por dia de semana
+
+Sobre nós:
+Nome, e-mails, GitHub dos integrantes
+
+Configurações:
+Encerrar sessão
+Trocar idioma
+Trocar entre modo "claro" e "escuro"
+Tamanho da fonte
+
+JK-Info para Professores --------------------------------------------------------------------------------------------
+
+Página Home: 
+
+Visualizar publicações
+Excluir publicações
+Barra de pesquisa
+Reagir à publicações
+Comentar à publicações
+Editar comentários
+Excluir comentários de alunos
+Visualizar comentários dos alunos
+Responder à comentários
+
+Atividades:
+
+Vizualizar mensagem de atividade
+Excluir atividade
+
+Perfil:
+
+Editar perfil -> Troca a foto
+	         Troca de link de rede social
+	         Adicionar link de rede social
+
+Emails:
+
+Lista de emails dos membros do corpo docente:
+				             Foto de perfil
+				             Nome do membro
+				             Email
+
+Botão "Turma" para filtrar na "lista de alunos"
+Lista de emails dos alunos:
+		            Foto de perfil
+		            Nome do membro
+		            Email
+
+Turmas:
+
+Escrever Lembrete para turma: 
+			Filtar por Turma
+			Definir prazo do lembrete
+			Editar lembrete
+			Excluir lembrete
+
+Cardápio:
+Lista das refeições separadas por dia de semana
+
+Sobre nós:
+Nome, e-mails, GitHub dos integrantes
+
+Configurações:
+Encerrar sessão
+Trocar idioma
+Trocar entre modo "claro" e "escuro"
+Tamanho da fonte
+
