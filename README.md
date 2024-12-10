@@ -1,4 +1,5 @@
 # Web App JK Info
-## Projeto de TCC do curso Técnico Desenvolvimento de Sistemas
+## Desenvolvedores: Guilherme Gomes da Silva
+### Objetivo: Facilitar a comunicação interna de instituições de educação visando melhorar o ambiente escolar e conectar integrantes virtualmente
+#### Como utilizar:
 
-### Membros: Guilherme Gomes, Caique Tavares, Lucas Malone, Pablo Henrique
